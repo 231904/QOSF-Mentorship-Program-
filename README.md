@@ -1,2 +1,2 @@
 # QOSF-Mentorship-Program
-This repository contains my solution for  Task 4 (Random Circuits). There are two different files: "Task", which contains the solution for the task itself, and "Bonus", which includes the coupling map as well.
+This repository contains my solution for  Task 4 (Random Circuits) in a Jupyter Notebook. It is structured on different sections: the generation and calling of the random_circuit function, followed by two different approaches for the Bonus part, one where the initial depth is modified after the transpilation process, thus allowing the user to experiment what changes in depth appear due to different gates, and one where the depth stays the same - set by the user.
